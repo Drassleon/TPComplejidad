@@ -1,0 +1,5 @@
+﻿  TSp.cpp
+c:\users\alvar\source\repos\testing\testing\tsp.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\alvar\source\repos\testing\testing\tsp.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\alvar\source\repos\testing\testing\tsp.cpp(158): warning C4018: '<': signed/unsigned mismatch
+  Testing.vcxproj -> C:\Users\alvar\source\repos\Testing\Debug\Testing.exe
